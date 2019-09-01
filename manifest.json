@@ -1,0 +1,38 @@
+{
+  "name": "Bimbel Semanggi",
+  "short_name": "Semanggi.com",
+  "start_url": "https://www.bimbelsemanggi.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Kumpulan materi pelajaran SD/MI dan Soal-Soal Online ",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-D519JpGH0U8/XWtm6jrAU_I/AAAAAAAABSI/PR9Ps1OnETcUaPMrDb8Y7uRyULzzkZgiACLcBGAs/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-jFw9A-UpJgE/XWtnCJG7OTI/AAAAAAAABSM/Q9SEPx5a5vIyAfP_XxsVIsnB47IQTCXMACLcBGAs/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uhsT7CUSkKY/XWtnHtBqDlI/AAAAAAAABSQ/BgTTCMciINENtial7mXGuyhgdYVA4WI5QCLcBGAs/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-FVqsmnv_59Q/XWtnPbnruKI/AAAAAAAABSU/lJX13zLhYwgt5K39iqUR-zWPVQPfwS2oACLcBGAs/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-QD19JzZvxSA/XWtqnmvJMLI/AAAAAAAABS0/dok5pKp2FBMwfb_hizkkYuNsVJgF41AJwCLcBGAs/s1600/apple-icon-152x152.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-rDxqc3iqLdA/XWtqucJLWvI/AAAAAAAABS4/hbKyK2QZFCEJbMJ1qdVUol0Zf-REIRmhgCLcBGAs/s1600/android-chrome-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-DUIBoh547lg/XWtq08sUXyI/AAAAAAAABS8/Hf0zveeUctsNUSklfRXar9i8Ly8kXU_UACLcBGAs/s1600/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
